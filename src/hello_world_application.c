@@ -4,7 +4,7 @@
 int main()
 {
     // Print "Hello World" to the console
-    printf("Hello Universe\n");
+    printf("Hello Dhanyalakshmi K N\n");
     
     // Pause execution for 10 seconds
     sleep(10);
